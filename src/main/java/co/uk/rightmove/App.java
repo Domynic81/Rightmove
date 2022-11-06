@@ -1,4 +1,4 @@
-package org.example;
+package co.uk.rightmove;
 
 /**
  * Hello world!
