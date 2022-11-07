@@ -1,4 +1,4 @@
-package org.example;
+package co.uk.rightmove;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
